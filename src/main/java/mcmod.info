@@ -1,0 +1,54 @@
+[
+{
+  "modid": "resourcemod",
+  "name": "ResourceMod",
+  "description": "Shared blocks and items for Manarz and SciCraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Valkyrinn"],
+  "credits": "Fodimo, for providing the original info",
+  "logoFile": "",
+  "screenshots": []
+},
+{
+  "modid": "manarz",
+  "name": "Manarz",
+  "description": "Making the world a little more magical",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fodimo", "Trizmo"],
+  "credits": "Valkyrinn, for updating the mod.",
+  "logoFile": "",
+  "screenshots": []
+},
+{
+  "modid": "SciCraft",
+  "name": "SciCraft",
+  "description": "Improving the world through Mechanical Energy!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Valkyrinn"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": []
+},
+{
+  "modid": "HorseStats",
+  "name": "HorseHUD",
+  "description": "Understand what you're looking at!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Valkyrinn"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": []
+}
+]

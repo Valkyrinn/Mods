@@ -1,0 +1,138 @@
+tile.pumpkinStem.name=Pumpkin Stem
+tile.melonStem.name=Melon Stem
+
+infobox=InfoBox
+infobox.desc=The InfoBox is a box that appears on your screen when you are looking at something in the world.
+
+infobox.C_MODVISIBLE=Mod Name
+infobox.C_MODVISIBLE_true=Visible
+infobox.C_MODVISIBLE_false=Hidden
+infobox.C_MODVISIBLE.desc=Determine whether to show the mod of blocks and entities shown by the InfoBox
+infobox.C_MODVISIBLE_true.desc=Show the originating mod
+infobox.C_MODVISIBLE_false.desc=Do not show the originating mod
+
+infobox.C_META=Block ID:Metadata
+infobox.C_META_false=Hidden
+infobox.C_META_true=Visible
+infobox.C_META.desc=Determine whether to show the ID and Metadata of blocks shown by the InfoBox
+infobox.C_META_false.desc=Do not show the block ID and Metadata
+infobox.C_META_true.desc=Show the block ID and Metadata
+
+infobox.C_VISIBILITY=Tooltips
+infobox.C_VISIBILITY_0=Hidden
+infobox.C_VISIBILITY_1=Visible
+infobox.C_VISIBILITY_2=Only Mobs
+infobox.C_VISIBILITY.desc=Determine whether the InfoBox is visible
+infobox.C_VISIBILITY_0.desc=Always hide the InfoBox
+infobox.C_VISIBILITY_1.desc=Always show the InfoBox
+infobox.C_VISIBILITY_2.desc=Only show the InfoBox when looking at living entities
+
+infobox.C_FLUID=Show Fluids
+infobox.C_FLUID_true=Visible
+infobox.C_FLUID_false=Hidden
+infobox.C_FLUID.desc=Determine whether to show fluids on the InfoBox
+infobox.C_FLUID_true.desc=Show fluids on the InfoBox
+infobox.C_FLUID_false.desc=Do not show fluids on the InfoBox
+
+infobox.C_MINE=Harvest Info
+infobox.C_MINE_0=Hidden
+infobox.C_MINE_1=Visible
+infobox.C_MINE_2=Only Ores
+infobox.C_MINE.desc=Determine whether to show the tool required to harvest the block shown on the InfoBox
+infobox.C_MINE_0.desc=Do not show the tool required to harvest the block
+infobox.C_MINE_1.desc=Show the tool required to harvest the block
+infobox.C_MINE_2.desc=Only show the tool required to harvest blocks with "ore" in their name
+
+infobox.C_POSITION=InfoBox Position
+infobox.C_POSITION_0=Edit Position
+infobox.C_POSITION.desc=Determines the position of the InfoBox on the screen
+infobox.C_POSITION_0.desc=Opens a screen where you can click and drag the InfoBox to a desired location
+
+tools.VanillaMC=Vanilla Minecraft
+tools.VanillaMC_0=Toggle Downfall
+tools.VanillaMC_1=Heal Player
+tools.VanillaMC_2=Magnet Mode
+tools.VanillaMC.desc=Some useful tools for the player
+tools.VanillaMC_0.desc=Toggles rain and snow.
+tools.VanillaMC_1.desc=Heals the player, restores all hunger and saturation, and removes all status effects
+tools.VanillaMC_2.desc=Enables Magnet Mode, which pulls all nearby items toward you
+
+tools.infobox.additionalinfo=InfoBox Additional Info
+tools.infobox.additionalinfo_0=Biome
+tools.infobox.additionalinfo_1=Coordinates
+tools.infobox.additionalinfo_2=Time
+tools.infobox.additionalinfo_3=FPS
+tools.infobox.additionalinfo.desc=Add additional info that is constantly displayed in the InfoBox
+tools.infobox.additionalinfo_0.desc=Add the current biome to the additional info section of the InfoBox
+tools.infobox.additionalinfo_1.desc=Add the player's coordinates to the additional info section of the InfoBox
+tools.infobox.additionalinfo_2.desc=Add the in-game time to the additional info section of the InfoBox
+tools.infobox.additionalinfo_3.desc=Add the current frames per second to the additional info section of the InfoBox
+
+itemdisplay=Item Display Box
+itemdisplay.desc=The Item Display Box is a screen that appears in most menus on the right side of the screen. You can access a list of all items and mods, as well as some tools and config options.
+
+itemdisplay.close_true=Hide the ItemBox
+itemdisplay.close_false=Show the ItemBox
+itemdisplay.tab.mods=Mods
+itemdisplay.tab.items=Items
+itemdisplay.tab.options=Options
+itemdisplay.tab.tools=Tools
+
+infobox.key.menu=Configuration Menu
+itemdisplay.key.recipe=Look Up Item Recipe
+itemdisplay.key.usage=Look Up Item Usage
+itemdisplay.key.visible=Hide/Show Item Display
+
+VanillaMC=Vanilla Minecraft
+VanillaMC.desc=These are commands accessible to you in graphical form that you could otherwise use in chat for various settings in the game.
+
+VanillaMC.gamemode=Game Mode
+VanillaMC.gamemode_0=Survival
+VanillaMC.gamemode_1=Creative
+VanillaMC.gamemode_2=Adventure
+VanillaMC.gamemode_3=Spectator
+VanillaMC.gamemode.desc=This setting determines the way you interact with the world
+VanillaMC.gamemode_0.desc=In this mode, players have to gather all their materials to build, craft and gain experience points. There is a health, hunger and armor bar, an inventory and, when underwater, an oxygen bar.
+VanillaMC.gamemode_1.desc=The player will have access to an infinite amount of almost all blocks and items available, and can destroy them instantly. Players are invulnerable and do not have health, armor, or hunger, and can fly.
+VanillaMC.gamemode_2.desc=Players can interact with objects such as levers and buttons, and can interact with mobs. However, they can only break blocks with the correct tools (such as breaking dirt with a shovel, or breaking stone with a pickaxe), making this mode good for adventure maps.
+VanillaMC.gamemode_3.desc=When in spectator mode, you can clip blocks, see what other entities are seeing by left-clicking on them, and you're invisible to everything and everyone except for other spectators. You can't interact with blocks, entities or your inventory. When in third-person mode, you look like a transparent, floating head with no body. You can use the scroll wheel to adjust the speed at which you are flying, unlike flying in creative mode.
+
+
+VanillaMC.defaultgamemode=Default Game Mode
+VanillaMC.defaultgamemode_0=Survival
+VanillaMC.defaultgamemode_1=Creative
+VanillaMC.defaultgamemode_2=Adventure
+VanillaMC.defaultgamemode_3=Spectator
+VanillaMC.defaultgamemode.desc=Sets the default game mode that is shown on the world selection menu. New players that join the world will be put into the default game mode; i.e., if the default game mode is creative, new players will start in creative.
+VanillaMC.defaultgamemode_0.desc=In this mode, players have to gather all their materials to build, craft and gain experience points. There is a health, hunger and armor bar, an inventory and, when underwater, an oxygen bar.
+VanillaMC.defaultgamemode_1.desc=The player will have access to an infinite amount of almost all blocks and items available, and can destroy them instantly. Players are invulnerable and do not have health, armor, or hunger, and can fly.
+VanillaMC.defaultgamemode_2.desc=Players can interact with objects such as levers and buttons, and can interact with mobs. However, they can only break blocks with the correct tools (such as breaking dirt with a shovel, or breaking stone with a pickaxe), making this mode good for adventure maps.
+VanillaMC.defaultgamemode_3.desc=When in spectator mode, you can clip blocks, see what other entities are seeing by left-clicking on them, and you're invisible to everything and everyone except for other spectators. You can't interact with blocks, entities or your inventory. When in third-person mode, you look like a transparent, floating head with no body. You can use the scroll wheel to adjust the speed at which you are flying, unlike flying in creative mode.
+
+VanillaMC.difficulty=Difficulty
+VanillaMC.difficulty_0=Peaceful
+VanillaMC.difficulty_1=Easy
+VanillaMC.difficulty_2=Normal
+VanillaMC.difficulty_3=Hard
+
+VanillaMC.time=Set Time
+VanillaMC.time_0=Dawn
+VanillaMC.time_1=Midday
+VanillaMC.time_2=Dusk
+VanillaMC.time_3=Midnight
+
+VanillaMC.gamerule.doDaylightCycle=Day/Night Cycle
+VanillaMC.gamerule.doDaylightCycle_true=Enabled
+VanillaMC.gamerule.doDaylightCycle_false=Disabled
+
+VanillaMC.gamerule.keepInventory=Keep Inventory
+VanillaMC.gamerule.keepInventory_true=True
+VanillaMC.gamerule.keepInventory_false=False
+
+VanillaMC.gamerule.mobGriefing=Mob Griefing
+VanillaMC.gamerule.mobGriefing_true=Enabled
+VanillaMC.gamerule.mobGriefing_false=Disabled
+
+VanillaMC.gamerule.naturalRegeneration=Natural Regen
+VanillaMC.gamerule.naturalRegeneration_true=Enabled
+VanillaMC.gamerule.naturalRegeneration_false=Disabled
