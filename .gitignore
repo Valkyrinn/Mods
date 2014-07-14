@@ -22,4 +22,8 @@
 /*.iml
 /*.ipr
 /*.iws
+<<<<<<< HEAD
 /atlassian-ide-plugin.xml
+=======
+/atlassian-ide-plugin.xml
+>>>>>>> origin/master
