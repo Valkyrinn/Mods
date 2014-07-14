@@ -1,6 +1,6 @@
 Mods by Valkyrinn
 ========
-HorseHUD
-ResourceMod
-Manarz
+HorseHUD<br />
+ResourceMod<br />
+Manarz<br />
 Mechanica
